@@ -29,6 +29,5 @@ Uploaded PDFs are split into overlapping chunks, embedded using a state-of-the-a
 | UI | Streamlit |
 
 ---
-S |
 
 **Supervisor:** Dr. Manar El-Shazly — Galala University, 2024–2025
